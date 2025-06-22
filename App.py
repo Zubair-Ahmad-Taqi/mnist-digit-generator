@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1-gKdPXh105Ebb4j_RB-UtSpEpPWfvUn0
 """
 
-!pip install streamlit
+pip install streamlit
 import streamlit as st
 import torch
 import torch.nn as nn
